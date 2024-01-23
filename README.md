@@ -1,0 +1,3 @@
+Welcome to the Tic Tac Toe game project! This simple implementation is perfect for beginners and those looking to practice their programming skills.
+                Tic Tac Toe is a classic two-player game where players take turns marking cells in a 3x3 grid. The first player to align three of their marks in a row wins. If the grid is filled without a winner, the game is a draw.
+Best way to practice Web Dev.
